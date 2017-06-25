@@ -1,0 +1,15 @@
+[{
+		"ask": ["mobile number", "password", "email ID"]
+	},
+	{
+		"rechargeTypes":"rechargeType.txt"
+
+	},
+	{
+		"rechargeSubTypes":"subtypes.txt"
+
+	},
+	{
+		"giveOptions": "rechargePlans.txt"},
+{"show": []}
+]

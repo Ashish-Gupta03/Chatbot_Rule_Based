@@ -1,0 +1,32 @@
+[
+{"sms": ["Rs 50 sms received will be 575"]},
+{"regular talktime": 
+["Rs 50 Talktime received will be 41",
+"Rs 70 Talktime received will be 57",
+"Rs 100 Talktime received will be 84",
+"Rs 190 Talktime received will be 163",
+"Rs 490 Talktime received will be 423"]},
+{"full talktime": ["Rs 220 Talktime received will be 220"]},
+{"extra talktime": ["Rs 550 Talktime received will be 575"]},
+{"special recharge or tariff or rate cutter":["Rs 20 you will get SMS Benefit: 265 Local and National SMS , Upto 100 SMS/day only with validity of 15 days",
+"Rs 25 you will get Local 70 Minutes onnet call with a validity of 5 days",
+"Rs 30 you will get SMS Benefit: Local and National SMS 385 with a validity of 30 days",
+"Rs 33 you will get 72 minutes anynet Local/ STD with a validity of 4 days",
+"Rs 36 you will get Validity Extension: Per Second with a validity of 180 days"
+]},
+{"roaming related plans":["Rs 34 you will get All outgoing calls local/std 70p/min while in roaming with validity of 6 days",
+"Rs 39 you will get Local @ 39p/min and STD @49p/min. SMS 39p/sms and roaming outgoing calls at 49p/min with a validity of 27 days",
+"Rs 77 you will get Out Going(Local and STD) while in roaming at 70ps per min with a validity of 28 days",
+"Rs 91 you will get Free OG Voice Calls 120minutes on any network in Roaming and Free SMS 40SMS on any network in Roaming with a validity of 30 days"
+]},
+{"2g packs":["Rs 5 you will get Night Pack: 2G/3G Data @9paise/MB (02-00hrs to 6-00 Hrs) with validity of 1 day",
+"Rs 31 you will get 150 MB 2G/3G Data , Charges after free usage: 3P/10KB with validity of 3 days"]
+},
+{"3g packs":["Rs 17 you will get 110 MB 2G/3G Data , Charges after free usage: 3P/10KB with validity of 1 day",
+"Rs 40 you will get 200 MB 2G/3G Data Charges after free usage: 3P/10KB with validity of 5 days",
+"Rs 78 you will get 2.2 GB 2G/3G Data, Charges after free usage: 3P/10KB (Promotional offer: w.e.f 07.5.2017 for 90 days) with validity of 5 days"]
+},
+{"4g packs":["Rs 96 you will get 1 GB 4G/3G Data with validity of 5 daya",
+"Rs 153 you will get 600 MB 3G Data with validity of 16 days",
+"Rs 255 you will get 1.5 GB 4G/3G Data with validity of 28 days"]
+}]

@@ -1,0 +1,3 @@
+[{"topup or general recharge":["Regular talktime","sms","Extra talktime","Full talktime","Do you want to go back"]},
+{"internet pack":["2G Packs","3G Packs","4G Packs","Do you want to go back"]}
+]
